@@ -1,0 +1,6 @@
+*.ipynb
+.github
+docs
+Dockerfile
+.gitignore
+.git
